@@ -1,0 +1,147 @@
+.h1-login,
+.h1-login {
+	font-family: "Inria Serif", serif;
+	color: black;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.h1-registrar {
+	font-family: "Inria Serif", serif;
+	color: black;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 2rem;
+}
+.p-login {
+	font-size: 0.8rem;
+}
+.topo {
+	text-align: center;
+}
+.logo-Login {
+	width: 300px;
+	height: 100px;
+	margin-bottom: 30px;
+}
+.logo-registrar {
+	width: 200px;
+	height: 70px;
+	margin-bottom: 10px;
+}
+.evento-img {
+	width: 400px;
+	height: 400px;
+}
+.centro {
+	background-color: #f2f2f2;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.form-login,
+.form-logout {
+	width: 380px;
+	margin: 0em auto;
+	margin-bottom: 30px;
+	padding: 3em 2em 2em 2em;
+	background: #fafafa;
+	border: 1px solid #ebebeb;
+
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.486);
+	border-radius: 10px;
+}
+
+.group {
+	position: relative;
+	margin-bottom: 45px;
+}
+
+.input-login {
+	font-size: 18px;
+	padding: 10px 10px 10px 5px;
+	-webkit-appearance: none;
+	display: block;
+	background: #fafafa;
+	color: rgb(56, 56, 56);
+	width: 100%;
+	border: 1px black solid;
+	border-radius: 0;
+}
+.input-registrar {
+	font-size: 16px;
+	padding: 5px 5px 5px 5px;
+	-webkit-appearance: none;
+	display: block;
+	background: #fafafa;
+	color: rgb(56, 56, 56);
+	width: 100%;
+	border: 1px black solid;
+	border-radius: 0;
+}
+.input-login:focus {
+	outline: none;
+}
+
+/* Label */
+.label-login {
+	font-family: "Poppins", sans-serif;
+	color: black;
+	font-size: 18px;
+	font-weight: normal;
+}
+.label-registrar {
+	font-family: "Poppins", sans-serif;
+	color: black;
+	font-size: 16px;
+	font-weight: normal;
+}
+.error {
+	font-size: 0.9rem;
+	color: red;
+	text-align: end;
+}
+.error-login {
+	font-size: 0.9rem;
+	color: red;
+}
+.sucesso {
+	font-size: 0.9rem;
+	color: green;
+}
+/* Button */
+.botao-login,
+.botao-logout {
+	position: relative;
+	display: inline-block;
+	padding: 12px 24px;
+	margin: 0.3em 0 1em 0;
+	width: 100%;
+	vertical-align: middle;
+	color: #fff;
+	font-size: 16px;
+	line-height: 20px;
+	-webkit-font-smoothing: antialiased;
+	text-align: center;
+	letter-spacing: 1px;
+	background: transparent;
+	border: 0;
+	border-bottom: 2px solid #014c49;
+	cursor: pointer;
+	transition: all 0.15s ease;
+	font-family: "Poppins", sans-serif;
+}
+.botao-login:focus,
+.botao-logout:focus {
+	outline: 0;
+}
+.botao-login-azul,
+.botao-logout-azul {
+	background: #014c49;
+}
+
+.botao-login-azul:hover,
+.botao-logout-azul:hover {
+	background: #016360;
+}

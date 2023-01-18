@@ -1,0 +1,3634 @@
+﻿[
+	{
+		"NOME": "Gabriel Souza Santana",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Laura Firmino Cunha Da Cruz",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Thiago Ferracioli Dos Santos",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Matheus Santos De Souza",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Arthur Cunha Lugath De França",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Arthur Silva De Oliveira",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bernardo Malens Rodrigues",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Heitor Meireles Do Couto",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Jean Pierre Dos Santos De Oliveira",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Kiara Lopes Martins De Menezes",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Andrew Luiz Souza Teixeira",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Asheley Gonçalves Dos Santos",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Bernardo Pereira França",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Elisa De Souza Frota",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Gabriel Correa De Amorim",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Gabriel Dos Santos Miguel",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Guilherme Costa Nunes",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Guilherme Otávio Souza De Moraes",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Hugo De Souza Frota",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Joanna Matias De Oliveira",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Richard Da Silva De Oliveira",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Arthur Da Silva Senra",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Evelyn Everlaine Gonçalves Dos Santos",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Marcelo Iarley De Melo Do Amaral Sabino",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Wallace Borges Santos De Melo",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Arhtur Satos Vargas",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Davi Taurino Da Silva",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "CINZA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Nicolas Lopes Da Conceição",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Nicolly Vitória Silva De Oliveira",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Isaac Felipe Aniceto",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bernardo Marcondes Silva",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Caio Nicácio Ventura",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Daniel Rodrigues De Oliveira",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Gabriel Fonseca De Melo",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Heitor De Oliveira Cardoso",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Isaac Assumpção De Siqueira",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Miguel Barbosa Duarte",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Samuel Deslandes Felix",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Arthur Fernandes Mendes",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Arthur Rodrigues De Mello Cunha",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Bernanrdo De Souza Oliveira Nunes",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Enzo Gabriel Nunes Baltazar",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Esther Rodrigues Santos",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Joao Gabriel Alves Ferraz",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Julia Ferreira De Carvalho -",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Luiz Kalleb Amaral",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Murilo Pontes Barreto",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Pedro Henrique Alves Da Silva",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Valentina De Oliveira Lima",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Arthur Machado Da Mota",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Daniel Fernandes Matheus",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Heitor Nascimento Moreira",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Isaac Bragança Ferreira",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Jorge Lucas Barbosa Duarte",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "João Vitor De Souza Cardoso Lycurgo",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Maria Clara Lirio Sanches",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Melyssa Ramalho Alburquerque",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Pedro Lucas De Souza Cardoso Lycurgo",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Samuel Duarte Damasceno",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Arthur Santana Saraiva",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Caio De Oliveira Portugal",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Juan Duarte Damasceno",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Laiz Bruna Da Costa",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Luan Da Costa Gomes",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Matheus Martins Sardinha",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Raphaela Almeida Dias",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Sara Carolina Deslandes Felix",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Jheniffer Oliveira Nolasco",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Ruan Gonçalves Gustavo",
+		"AGREMIAÇÃO": "ARION TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Benjamin Lacerda Cardoso",
+		"AGREMIAÇÃO": "BRAZILIAN PIMENTEL TEAM",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Brayan Cerqueira",
+		"AGREMIAÇÃO": "BRAZILIAN PIMENTEL TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Giovanna Candido Lima",
+		"AGREMIAÇÃO": "BRAZILIAN PIMENTEL TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Matheus Garcia Belchior",
+		"AGREMIAÇÃO": "BRAZILIAN PIMENTEL TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Gabriel Pereira Sixel",
+		"AGREMIAÇÃO": "BRAZILIAN PIMENTEL TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Miguel Oliveira Souza De Lima",
+		"AGREMIAÇÃO": "BRAZILIAN PIMENTEL TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Josué Santos Da Silva Gomes",
+		"AGREMIAÇÃO": "CT-MG JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Saulo Duarte Porfirio Florentino",
+		"AGREMIAÇÃO": "CT-MG JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Maria Eduarda Evangelista Lopes",
+		"AGREMIAÇÃO": "CT-MG JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "02.GALO"
+	},
+	{
+		"NOME": "João André Ribeiro Najar Fogaça",
+		"AGREMIAÇÃO": "EQUIPE CAVALO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Joana Ribeiro Najar Queiroz Neves",
+		"AGREMIAÇÃO": "EQUIPE CAVALO JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Antônio Gabriel Ribeiro Souto",
+		"AGREMIAÇÃO": "EQUIPE CAVALO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Pedro Henrique De Almeida Lima",
+		"AGREMIAÇÃO": "EQUIPE CAVALO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Enzo Araújo Coutinho Gomes",
+		"AGREMIAÇÃO": "EQUIPE CAVALO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Miguel Henrique Carreira Silva",
+		"AGREMIAÇÃO": "EQUIPE CAVALO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Arthur Galvão Machado",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Helena Augusto Vianna",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Helena Augusto Vianna",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Lavínia Vieira Regufe Da Silva",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bento Petrucci",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Caio De Souza Mendonça De Luna",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Kauê Gutierres Souza Bastos",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Yasmim Da Silva Conceição Amarela",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Nicolas André De Oliveira Siqueira",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Wanderson De Oliveira Machado Leite",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "02.GALO"
+	},
+	{
+		"NOME": "Davi Ribeiro Da Conceição",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Gabriel De Souza Rodrigues",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Igor Sacramento Da Silva",
+		"AGREMIAÇÃO": "EQUIPE LUIZ PAULO JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Emanuel Victor Picado Batista Abreu",
+		"AGREMIAÇÃO": "EQUIPE UFA JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Caio Franklin De Paulo Cunha",
+		"AGREMIAÇÃO": "EQUIPE UFA JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Isabella Lúcia Santos Dias Cordeiro",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Caio Lucas Barra Carvalho",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Ludmylla Oliveira Medeiros",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Maria Luiza Oliveira De Sousa",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Sergio Guilherme Dos Santos Silva",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Carlos José De Lima Junior",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Lorrane Victória Farias De Azevedo",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Maria Eliza Lacerda Smiderli",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Davy Almeida De Moura",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Hugo Matias Eller Chagas Nóbrega De Souza",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "João Paulo Goes Freitas Ferreira",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Matheus Ribeiro Melo",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Tayla Vitória Farias Corrêa",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Michael Coelho Da Silva Fernandes",
+		"AGREMIAÇÃO": "FJU BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Carolina Cardoso De Almeida",
+		"AGREMIAÇÃO": "GFTEAM",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Manuela Quintanilha Cabral Ramos",
+		"AGREMIAÇÃO": "GFTEAM",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "João Pedro Carvalho Alves",
+		"AGREMIAÇÃO": "GFTEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Kaue Mendes Da Silva",
+		"AGREMIAÇÃO": "GFTEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Arthur Rihan Dias De Almeida",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Davi Pampulonia Barata Ribeiro",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Araujo Rodrigues",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Jean Paulo Rangel Da Silva",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Ana Luyza Ferreira Da Silva",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Fernando Ribeiro Mesquita",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Heitor Barboza Pinho",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Lucas Marins Giannerini Coutinho",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Gabriel Machado",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Lucas Marins Giannerini Coutinho",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Samuel Alencar Das Chagas",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Larah Araujo Rodrigues",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Lusemir Gomes De Araujo",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Matheus Ribeiro Mesquita",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Kaio Ferreira Machado",
+		"AGREMIAÇÃO": "GFTEAM ITABORAI",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Davi Da Conceição Salles Leal",
+		"AGREMIAÇÃO": "GRACIE BARRA",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Da Conceição Salles Leal",
+		"AGREMIAÇÃO": "GRACIE BARRA",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Roberta Dos Santos Rieger Matos",
+		"AGREMIAÇÃO": "GRACIE BARRA",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Ana Liz Moreira Mendonça Paulino",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Breno Lobo Campos De Souza",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "João Gabriel Mota Oliveira Da Costa",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Maria Eduarda Diniz Velozo",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Davi De Oliveira Mathias",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enrico Cardoso De Souza",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Gabriel Moura Do Nascimento",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Isaac Moreira Passos",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Kaio Costa Teixeira",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Lucas Gabriel Dos Santos Lima",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bernardo Lacerda Ugulino",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Manuella Lacerda Ugulino",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Miguel Diniz Velozo",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Beatriz Barros Correia",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Rodrigo Vaz Lopes De Souza",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Breno Fernandes Manhães",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Igor Gomes",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Johann Oliveira De Moreas",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Lilly Guimarães De Albuquerque",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Miguel Tenório Das Neves Santana",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Nathan Amaral Do Carmo",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Pedro Henrique Xavier De Almeida",
+		"AGREMIAÇÃO": "GRACIE BARRA ITAIPUAÇU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Bernardo Silva Verdan Do Nascimento",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Luiza Souza Ramos",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bento Campos Figueiredo",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bryan Gomes Demétrio Cunha",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Dante Castro Diaz Nápoles",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enrico Soares Sarzedas",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Araká G Veiga",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Felipe Benevides Vieira De Souza",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Luísa Novoa Cerri Gonçalves",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Mosart Rafael Ramos Domingues Chagas",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Caio De Oliveira Cardoso",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Davi Lucas Carvalho Baptista",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Felipe Fontolan Ferraz Fernandes",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Heitor Gil Matos Amorim",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Laura Macedo Marinho",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Ryan Carodos Gomes",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Sofia Marques Amorim Da Silva",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Paulo Renato Da Silva Batista",
+		"AGREMIAÇÃO": "GRACIE BARRA SÃO GONÇALO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Eduardo Coutinho Farina",
+		"AGREMIAÇÃO": "GVJJA",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Samuel Mendes Santiago Barbosa",
+		"AGREMIAÇÃO": "GVJJA",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Bastos",
+		"AGREMIAÇÃO": "GVJJA",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Samuel Paixão De Andrade",
+		"AGREMIAÇÃO": "GVJJA",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Joao Gabriel Mello Telles Ribeiro",
+		"AGREMIAÇÃO": "GVJJA",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Francisco De Mello Sardella",
+		"AGREMIAÇÃO": "GVJJA",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "02.GALO"
+	},
+	{
+		"NOME": "Arthur Nicolás De Oliveira Alves",
+		"AGREMIAÇÃO": "ICON JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Ana Clara Cruz De Oliveira Alves",
+		"AGREMIAÇÃO": "ICON JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Paulo Bernardo Da Conceição Frajberg",
+		"AGREMIAÇÃO": "ICON JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Ayla Queiroz Costa",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Lavínia De Albuquerque Trindade",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Davi Ferreira Sodré",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Livia Pinto De Brito",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Manu Ellen Ruiz P De Castro",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Tales Francisco De Oliveira Marques",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Ester De Oliveira Azevedo",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Izabella De Matos Silva",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Pedro Tiago Santos Moreira",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "02.GALO"
+	},
+	{
+		"NOME": "Davi Lannes Petrutes",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Davi Rodrigues Soares",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Samuel Asafe De Matos Silva",
+		"AGREMIAÇÃO": "JESUS JITSU/ORIENTE MARICA",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Bernardo Monteiro De Carvalho Pires",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Davi Ferreira Dos Santos De Almeida",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Davi Menezes Ferreira",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Geovanna Marins Rangel",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Heitor Calebe Oliveira Benvindo",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Isadora Viana De Oliveira Dos Santos",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Luis Fernando Dos Santos Pereira",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Manoela Passos Carrete",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Maya De Almeida Pontes",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Théo Freitas Mantuan",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bernardo Martins Araújo",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Enzo Gomes Petrucio Martins Teixeira",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Izabella Soares Mota Ribeiro",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "João Gabriel Laprovitera Castro",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Lenita Corrêa Guedes",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Luan Miguel Ferreira Dos Santos",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Miguel Calheiros Tavares",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Miguel Costa Barros",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Miguel Fernandes Sirieira Camara",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Nicolas De Paula Machado",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Nycael De Oliveira Gomes",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Thayla Maria Mendes Costa",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Fabrinny De Lima Catarino",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Isaac Soares Fialho",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "João Pedro Batista De Freitas",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Kauã Victor Vieira Ramos",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Lia Baihense Oliveira Rodrigues",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Luiz Henrique Santos Da Silva",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Luiz Ruan Aredes De Lima",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Mariana Calheiros Aliandro",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Marley Simplicio Lavra",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Nycolas Gabriel De Oliveira Gomes",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Nícolas Almeida Valladão",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Sophia Leutz Pinheiro",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Yan Lucas De Souza Guimarães",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Deryck Mendes Costa",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Davi Lameira Domingos",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Felipe Teixeira Igreja",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Juan Corrêa Guedes",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Lavínia Catarino Campos",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Miguel Passos Zambon",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Yasmim Kyara  Costa Da Matta",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Junior Fernandes De Souza",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Matheus Calheiros Aliandro",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Otávio De Souza Soriano",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Paulo Henrique Vieira Parente",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Thayna Costa Cavalcante",
+		"AGREMIAÇÃO": "KAIROS BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Bernardo Paes Campos",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Joao Henrique Ribeiro De Carvalho Vitor",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Malu Werneck Telles De Oliveira",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Emanuel Mariano Ferreira",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Caio Victor Lannes Dos Santos",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Miguel De Souza Faria",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Davi Mariano Ferreira",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Gustavo Paulino Soares Monteiro",
+		"AGREMIAÇÃO": "MAFER BJJ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Gabriel Oliveira Campos",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "02.GALO"
+	},
+	{
+		"NOME": "Marina Neves Barbosa",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Ana Beatriz De Carvalho Coutinho",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Arthur Carvalho",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Izadora Rocha Mourão",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Maisa Nascimento",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Rodrigo Oliveira Campos",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Julia Cardoso Barreto",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Marcela Neves Barbosa",
+		"AGREMIAÇÃO": "MAX TOP TEAM JJ",
+		"SEXO": "// FEM //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Diego Tadeu Soares Japiassu",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Lucas Ribeiro Da Costa",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Esther Ribeiro Fermiano",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Gustavo Fernandes Pereira",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Maria Clara Ribeiro Da Costa",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Enzo Ferreira Simões",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Marcos Gabriel Pereira Da Silva Dos Santos",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Miguel Ferreira De Souza",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Miguel Ferreira De Souza",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Victor Hugo Ribeiro Fermiano",
+		"AGREMIAÇÃO": "NAÇÃO KIDS FIGHT TEAM",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Anderson De Souza Vieira",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Jhonata Isaías Nascimento",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Maria Victória Santana De Oliveira",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Yuri Carvalho Da Silva",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Alicia Silva Nascimento",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Davi Gonçalves Marques",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Izaias Normando Da Conceição",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Luiz Miguel S.S. De Araújo",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Matheus De Souza Da Silva",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Miguel Silva Do Nascimento",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Mirella Dos Santos",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Nicolly Vitória G. De Lima",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Pedro Almeida De Souza",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Pedro Viegas Leal",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Samanta Dos Santos",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Alessandro Silva Santos De Araújo",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Alexsandro Tertuliano De Souza",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Ana Julha Serrado Morena",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Bryant Bignon Goulart",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Cristhian Da Fonseca",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Gustavo Reis De Oliveira",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Matheus Martins Cunha",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Hugo Barreto",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Myrella Macário Dos Santos",
+		"AGREMIAÇÃO": "NOVA UNIÃO",
+		"SEXO": "// FEM //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Ana Julia Medeiros",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Ana Júlia  Medeiros",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Brayan Brandão",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Bryan Brandão De Araújo",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Enzo Fernandes",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Veras",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Veras Ferreira",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Gabriel Vicenzzo",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Lucas Da Cruz Rodrigues",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Lucas Da Cruz Rodrigues",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Matheus Torres",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Matheus Torres Dos Santos",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Mayck Duarte",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Oliver Brandão",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Oliver Brandão Carramão",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Pedro Calille",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Pedro Calille",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Pedro Felipe Prudencio",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Pedro Henrique De Sousa",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Pedro Henrique De Souza Silva",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Tierry De Farias",
+		"AGREMIAÇÃO": "OLIVEIRA JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Anthony De Oliveira Martins.",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Benjamin Santos Andrade.",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Sophia Dos Santos Parente.",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Arthur Vieira Matos",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bento Do Nascimento Brito",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Lucas Borges Pereira Da Silva.",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Nicoly Fagundes Neves",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Raphael Elisio Carvalho",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Tallys Pedrosa",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Carlos Willian Isidoro Santiago.",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Pablo De Oliveira Thomaz.",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Pedro Lucas Da Silva Prado.",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Luiz Cláudio Espírito Santo",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Nicole Tavares Mendes",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Gustavo Richard Santos",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Kauã Da Silva Mendes",
+		"AGREMIAÇÃO": "PEDROSA JIU-JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Maria Vitoria Souza Braz",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Rodrigo De Oliveira Cardozo",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Caio Henrique Da Silva",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Agatha Yamin Simões Da Cruz Da Silva",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bernardo De Almeida Azevedo",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Bernardo Vilar Da Silva Vieira 04/01/2016",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Eloá Cristina Tavares Da Silva 14/12/2014",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Camacho Soares 01/08/2015",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Enzo Bezerra Da Silva 20/05/2015",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Joaquim Rocha De Oliveira",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "João Miguel Vieira Purgur  Camisa 06/04/15",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Laura Mendes De Oliveira 17/08/2016",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Maria Eduarda Purgur Do Nascimento 12/04/2015",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Nicolas Crescencia Da Silva",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Noah Mattos Lotérica",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Samuel Barroso De Moura De Castro",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Sofia Crescencia Da Silva",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Sophia Amaral Candeia",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Gustavo Da Silva Moura",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Miguel Vittor Rocha Ignacio Caldas",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Ana Luiza De Souza Barros",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Ana Gabrielly Leucht",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Antony De Oliveira Carvalho",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Djule Mendes Dos Santos",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Lucas Leucht",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Maria Julia Sally",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Miguel Jorge Duarte",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Nicolas Teles Faria De Oliveira",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Pedro Kauã Rebouças",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Rhian Samuel Barboza",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Sophia Mendes Oliveira  15/11/2012",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Abner Da Mata Fortes Pessoa",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Ana Beatriz Da Silva Rodrigues 04/03/2012",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Ana Carolina Vasconcelos Dos Santos 20/07/2011",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Davi Ferreira Sousa",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Derick Rodrigues De Souza",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Erick Pereira Sales",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Guilherme Do Nascimento Alvis Águia  30/07/2011",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Isabelle Gonçalves Da Silva",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Joao Victor Da Silva Bernardes",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "João Gabriel Dos Santos Oliveira",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Lorran Da Conceição Alves",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Luan Viana De Souza",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Maria Antonia Andrade",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Samuel André Pinheiro De Oliveira 18/11/2010",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Sophia Victória Rocha Soares",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Ana Clara Santos Campos 22/03/2010",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Davi Viana De Souza",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Guilherme Purguer Gomes Leite 10/12/2010",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Isac Loureiro Tavares Dos Santos  07/04/2010",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Jasminy Alves Siqueira",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Larissa Regina Goes",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Lorena Vitoria Almeida Silveira",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Luiza Gonçalves Silva 19/09/2009",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Pedro Antony Diniz",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Pedro Salles Cordeiro",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Polianna Aparecida Dos Santos Oliveira",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Rhaissa Soares Da Silva",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Richard Barboza Dias",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Sara Almeida Monteiro",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Victoria Leucht",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Bernanrdo Da Silveira De Assis",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Danilo Mendes Dos Santos",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "02.GALO"
+	},
+	{
+		"NOME": "Jean Phelipe Da Conceição Azevedo",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Patricia Victoria Araujo Dos Santos",
+		"AGREMIAÇÃO": "PROJ. VENCEDORES EM CRISTO",
+		"SEXO": "// FEM //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Samuel Silva Nascimento",
+		"AGREMIAÇÃO": "PROJETO GIDEÕES JJ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Enzo Marques Fortunato",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Heloisa Rodrigues Mota",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Ana Clara De Oliveira Lopes",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Gustavo Ramos Machado",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Lorenna Da Silva Pereira Costa",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Israel Magalhães Silva",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Jhuan Rupp Silva Lima",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Jorge Luiz Coutinho Dos Santos",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Kauã Modesto Pereira",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Kayke Da Silva Pereira",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Marta Mirella Militão",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Yuri Gustavo Modesto Rosa Eugênio",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Gustavo Da Luz Pereira",
+		"AGREMIAÇÃO": "PROJETO LUTADORES DA FÉ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Leonardo Ubiratan",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Yasmin Prado Gonçalves",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "01- PRE MIRIM - 4 e 5 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Adryan L. Da Silva",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "João Miguel",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "João Victor Farias",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Mariana Pires",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Andreny S. Santos",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Arthur Cabral",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "07.MEIO PESADO"
+	},
+	{
+		"NOME": "Bernardo",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Davi Cabral",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Isabela Cabreira",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Paulo Victor Gomes",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "05.LEVE"
+	},
+	{
+		"NOME": "Sophia Souza",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Paulo Victor Tavares",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Roberta Dos Santos Da Silva",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "João Victor",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "João Kaike De Assis",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Júlia Gomes",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Kayke Jais Dias",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Laura Dos Santos",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Maicon Araújo",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "06.MEDIO"
+	},
+	{
+		"NOME": "Arthur Santos",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Luísa Gomes",
+		"AGREMIAÇÃO": "PROJETO RICARDO VERÍSSIMO J",
+		"SEXO": "// FEM //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "04. LAR/VER //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Larissa Santos Da Silva",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// FEM //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Vitor Azevedo Fontes",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "02- MIRIM - 6 e 7 anos",
+		"FAIXA": "00.BRANCA / CINZA /",
+		"CATEGORIA": "00.FESTIVAL"
+	},
+	{
+		"NOME": "Alice De Azevedo Fontes",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Arthur Da Silva De Jesus",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Joao Pedro Osiris De Barros Dias",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Leonardo Ezequiel Da Silva Freitas",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Maria Tereza De Oliveira Leite",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Paulo Henrique Souza De Freitas",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Rebeca De Paula Neves",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "09.SUPER PESADO"
+	},
+	{
+		"NOME": "Carlos Eduardo Conceicao Da Silva",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Ellen Moura Cruz",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "01. LIGEIRO"
+	},
+	{
+		"NOME": "Guilherme Diolindo Dos Santos",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "04.PENA"
+	},
+	{
+		"NOME": "Juan Gabriel Rabelo Cantuaria Gadioli",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Lunna Victoria Da Conceicao Villas Boas",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Manuella Cristina Marins Santos",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// FEM //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "03.PLUMA"
+	},
+	{
+		"NOME": "Yudi Gomes Pereira Barreira",
+		"AGREMIAÇÃO": "ROBINHO JJ MARICÁ",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Eliza Cardoso Costa",
+		"AGREMIAÇÃO": "TEAM BROTHERS",
+		"SEXO": "// FEM //",
+		"IDADE": "03- INFANTIL A - 8 e 9 anos",
+		"FAIXA": "02.CINZA //",
+		"CATEGORIA": "08.PESADO"
+	},
+	{
+		"NOME": "Eduarda Cardoso Costa",
+		"AGREMIAÇÃO": "TEAM BROTHERS",
+		"SEXO": "// FEM //",
+		"IDADE": "04- INFANTIL B - 10 e 11 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Sidnei De Melo Neto",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "05- INF JUV A - 12 e 13 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Calebe Dos Santos",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "03.AMARELA //",
+		"CATEGORIA": "10.PESADISSIMO"
+	},
+	{
+		"NOME": "Kauê Carvalho De Lustosa",
+		"AGREMIAÇÃO": "ÁGAPE JIU JITSU",
+		"SEXO": "// MAS //",
+		"IDADE": "06- INF JUV B - 14 e 15 anos",
+		"FAIXA": "01.BRANCA //",
+		"CATEGORIA": "01. LIGEIRO"
+	}
+]
