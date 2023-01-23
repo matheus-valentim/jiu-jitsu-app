@@ -17,6 +17,10 @@ export default function Navbar() {
 		setTodasagremiacoes,
 		setLoading,
 		usuarioAtual,
+		setOpen1,
+		setOpen2,
+		setOpenEditar,
+		setOpenEvento,
 	} = useContext(ModalContext);
 	const [sidebarOn, setSidebarOn] = useState(false);
 	const [dark, setDark] = useState(true);
@@ -27,6 +31,13 @@ export default function Navbar() {
 		localStorage.removeItem("nivel");
 		setUsuarioAtual(false);
 		useNavigate("/");
+	};
+	const fecharModal = () => {
+		setOpen1(false);
+		setOpen2([false, null]);
+		setOpen3(false);
+		setOpenEditar(false);
+		setOpenEvento(false);
 	};
 	useEffect(() => {
 		async function atualizar() {
@@ -79,7 +90,12 @@ export default function Navbar() {
 				<div class="menu-bar">
 					<div class="menu">
 						<ul class="menu-links">
-							<li class="nav-link">
+							<li
+								class="nav-link"
+								onClick={(e) => {
+									fecharModal();
+								}}
+							>
 								<Link to="/eventos" className="navbar-link">
 									<i class="bx bx-home-alt icon">
 										<svg
@@ -97,7 +113,12 @@ export default function Navbar() {
 								</Link>
 							</li>
 
-							<li class="nav-link">
+							<li
+								class="nav-link"
+								onClick={(e) => {
+									fecharModal();
+								}}
+							>
 								<Link to="/relatorios" className="navbar-link">
 									<i class="bx bx-bell icon">
 										<svg
@@ -127,10 +148,6 @@ export default function Navbar() {
 												</Link>
 											</>
 										) : null}
-
-										<Link className="link-navbar" to="/relatorios/checagem">
-											Checagem
-										</Link>
 									</span>
 								</Link>
 							</li>
@@ -141,7 +158,15 @@ export default function Navbar() {
 										<a
 											className="navbar-link"
 											onClick={(e) => {
-												setOpen3(true);
+												if (open3) {
+													fecharModal();
+												} else {
+													setOpen1(false);
+													setOpen2([false, null]);
+													setOpenEditar(false);
+													setOpenEvento(false);
+													setOpen3(true);
+												}
 											}}
 										>
 											<i class="bx bx-bell icon">
@@ -158,7 +183,12 @@ export default function Navbar() {
 											<span className="tooltip">Agremiações</span>
 										</a>
 									</li>
-									<li class="nav-link">
+									<li
+										class="nav-link"
+										onClick={(e) => {
+											fecharModal();
+										}}
+									>
 										<Link to="/usuarios" className="navbar-link">
 											<i class="bx bx-bell icon">
 												<svg

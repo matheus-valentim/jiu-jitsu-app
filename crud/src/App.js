@@ -13,7 +13,6 @@ import Relatorios from "./pages/relatorios/relatorios";
 import Registrar from "./pages/registrar/registrar";
 import RecuperarSenha from "./pages/recuperarSenha/RecuperarSenha";
 import Usuarios from "./pages/usuarios/usuarios";
-import Checagem from "./componentes/checagem";
 
 export default function App() {
 	const [open1, setOpen1] = useState(false);
@@ -88,7 +87,6 @@ export default function App() {
 						<Route path="/relatorios" element={<Relatorios />} />
 						<Route path="/usuarios" element={<Usuarios />} />
 						<Route path="/recuperar" element={<RecuperarSenha />} />
-						<Route path="/relatorios/checagem" element={<Checagem />} />
 					</Routes>
 				</ModalContext.Provider>
 			</AuthProvider>

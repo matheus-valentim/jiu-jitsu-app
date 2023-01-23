@@ -13,25 +13,18 @@ export default function Relatorios() {
 		<section class="principal">
 			<main class="main">
 				<h1 class="h1-eventos">Relatórios:</h1>
-				{confirmarEmailAdmin ? (
-					<>
-						<button className="sessao">
-							<Link to="/relatorios/atleta" className="elemento">
-								<p className="grande">Relatorio atletas</p>
-							</Link>
-						</button>
-						<button className="sessao">
-							<Link to="/relatorios/pagamento" className="elemento">
-								<p className="grande">Relatorio de Pagamento</p>
-							</Link>
-						</button>
-					</>
-				) : null}
-				<button className="sessao">
-					<Link to="/relatorios/checagem" className="elemento">
-						<p className="grande">Relatorio de Checagem</p>
-					</Link>
-				</button>
+				<>
+					<button className="sessao">
+						<Link to="/relatorios/atleta" className="elemento">
+							<p className="grande">Relatorio atletas</p>
+						</Link>
+					</button>
+					<button className="sessao">
+						<Link to="/relatorios/pagamento" className="elemento">
+							<p className="grande">Relatorio de Pagamento</p>
+						</Link>
+					</button>
+				</>
 			</main>
 			<Navbar />
 		</section>
