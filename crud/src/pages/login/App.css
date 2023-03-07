@@ -61,7 +61,6 @@
 .input-login {
 	font-size: 18px;
 	padding: 10px 10px 10px 5px;
-	-webkit-appearance: none;
 	display: block;
 	background: #fafafa;
 	color: rgb(56, 56, 56);
@@ -72,7 +71,7 @@
 .input-registrar {
 	font-size: 16px;
 	padding: 5px 5px 5px 5px;
-	-webkit-appearance: none;
+
 	display: block;
 	background: #fafafa;
 	color: rgb(56, 56, 56);

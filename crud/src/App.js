@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Login from "./pages/login/login";
 import Dashboard from "./componentes/dashboard";
 import { AuthProvider } from "./contexts/authProvider";
-import PrivateRoute from "./pages/login/rotaPrivada";
+import PrivateRoute from "./contexts/rotaPrivada";
 import Eventos from "./pages/eventos/eventos";
 import Atletas from "./pages/relatorioAtleta/atleta";
 import Pagamento from "./pages/pagamento/pagamento";
@@ -72,7 +72,14 @@ export default function App() {
 					}}
 				>
 					<Routes>
-						<Route path="/eventos" element={<Eventos />} />
+						<Route
+							path="/eventos"
+							element={
+								<PrivateRoute>
+									<Eventos />
+								</PrivateRoute>
+							}
+						/>
 						<Route
 							path="/dashboard"
 							element={
@@ -81,12 +88,47 @@ export default function App() {
 								</PrivateRoute>
 							}
 						/>
-						<Route path="/relatorios/atleta" element={<Atletas />} />
+						<Route
+							path="/relatorios/atleta"
+							element={
+								<PrivateRoute>
+									<Atletas />
+								</PrivateRoute>
+							}
+						/>
 						<Route path="/" element={<Login />} />
-						<Route path="/relatorios/pagamento" element={<Pagamento />} />
-						<Route path="/relatorios" element={<Relatorios />} />
-						<Route path="/usuarios" element={<Usuarios />} />
-						<Route path="/recuperar" element={<RecuperarSenha />} />
+						<Route
+							path="/relatorios/pagamento"
+							element={
+								<PrivateRoute>
+									<Pagamento />
+								</PrivateRoute>
+							}
+						/>
+						<Route
+							path="/relatorios"
+							element={
+								<PrivateRoute>
+									<Relatorios />
+								</PrivateRoute>
+							}
+						/>
+						<Route
+							path="/usuarios"
+							element={
+								<PrivateRoute>
+									<Usuarios />
+								</PrivateRoute>
+							}
+						/>
+						<Route
+							path="/recuperar"
+							element={
+								<PrivateRoute>
+									<RecuperarSenha />
+								</PrivateRoute>
+							}
+						/>
 					</Routes>
 				</ModalContext.Provider>
 			</AuthProvider>

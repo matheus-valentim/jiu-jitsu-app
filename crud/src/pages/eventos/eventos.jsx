@@ -39,7 +39,6 @@ export default function Eventos() {
 	useEffect(() => {
 		const getUsers = async () => {
 			setLoading(true);
-			console.log(eventos);
 			const usersCollectionRef = collection(db, "eventos");
 			const data = await getDocs(usersCollectionRef);
 			setEventos(data.docs.map((doc) => ({ ...doc.data() })));

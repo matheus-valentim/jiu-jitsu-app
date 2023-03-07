@@ -34,7 +34,6 @@ export default function ModalEvento() {
 			nome: nomeEvento,
 			data: data,
 		};
-		console.log("foi");
 		setEventos([...eventos, { nome: nomeEvento }]);
 		await setDoc(doc(db, "eventos", nomeEvento, "usuarios", value.nome), value);
 		await setDoc(doc(db, "eventos", nomeEvento), dadoEvento);
@@ -93,7 +92,6 @@ export default function ModalEvento() {
 							onClick={() => {
 								setOpenEvento(false);
 
-								console.log("teste ok");
 								adicionarUser();
 							}}
 						>

@@ -17,7 +17,7 @@ export default function Login() {
 		useContext(ModalContext);
 	async function Login() {
 		const foi = usuarios.map((item) => {
-			if (item.email == email && item.senha == senha) {
+			if (item.email == email) {
 				setUsuarioAtual(item);
 				localStorage.setItem("email", item.email);
 				localStorage.setItem("senha", item.senha);
@@ -28,15 +28,7 @@ export default function Login() {
 			}
 		});
 	}
-	const loginEmailPassword = async () => {
-		try {
-			await login(email, senha);
 
-			navigate("/eventos");
-		} catch {
-			seterror("senha ou email errados");
-		}
-	};
 	useEffect(() => {
 		async function pesquisar() {
 			const usersCollectionRef = collection(db, "usuarios");
@@ -46,36 +38,40 @@ export default function Login() {
 		pesquisar();
 	}, []);
 	const [email, setEmail] = useState("");
-	const [senha, setSenha] = useState("");
+	const [loading, setLoading] = useState(false);
 	return (
 		<div className="centro">
 			<div id="login">
 				<div class="topo">
 					<img className="logo-Login" src={logo} alt="" />
 				</div>
-				<form className="form-login">
+				<form
+					className="form-login"
+					onSubmit={(e) => {
+						Login();
+					}}
+				>
 					<h1 className="h1-login">Login</h1>
 					<label className="label-login">Email:</label>
 					<div class="group">
-						<input
-							className="input-login input-login-email"
-							id="txtEmail"
-							type="email"
-							onChange={(event) => setEmail(event.target.value.trim())}
-						/>
+						{!loading && (
+							<select
+								name=""
+								id=""
+								className="input-login input-login-email"
+								onChange={(event) => setEmail(event.target.value.trim())}
+							>
+								<option value="" disabled selected>
+									{" "}
+									escolha um user
+								</option>
+								{usuarios.map((user) => {
+									return <option>{user.email}</option>;
+								})}
+							</select>
+						)}
 						{error ? <p className="error-login">{error}</p> : null}
 					</div>
-					<label className="label-login">Senha:</label>
-					<div class="group">
-						<input
-							className="input-login input-login-senha"
-							id="txtPassword"
-							type="password"
-							onChange={(event) => setSenha(event.target.value.trim())}
-						/>
-						{error ? <p className="error-login">{error}</p> : null}
-					</div>
-
 					<button
 						className="botao-login botao-login-azul"
 						id="btnLogin"
