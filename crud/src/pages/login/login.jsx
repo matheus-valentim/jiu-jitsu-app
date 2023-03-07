@@ -31,14 +31,16 @@ export default function Login() {
 
 	useEffect(() => {
 		async function pesquisar() {
+			setLoading(true);
 			const usersCollectionRef = collection(db, "usuarios");
 			const data = await getDocs(usersCollectionRef);
 			setUsuarios(data.docs.map((doc) => ({ ...doc.data() })));
+			setLoading(false);
 		}
 		pesquisar();
 	}, []);
 	const [email, setEmail] = useState("");
-	const [loading, setLoading] = useState(false);
+	const [loading, setLoading] = useState(true);
 	return (
 		<div className="centro">
 			<div id="login">
@@ -54,7 +56,7 @@ export default function Login() {
 					<h1 className="h1-login">Login</h1>
 					<label className="label-login">Email:</label>
 					<div class="group">
-						{!loading && (
+						{!loading ? (
 							<select
 								name=""
 								id=""
@@ -69,7 +71,7 @@ export default function Login() {
 									return <option>{user.email}</option>;
 								})}
 							</select>
-						)}
+						) : null}
 						{error ? <p className="error-login">{error}</p> : null}
 					</div>
 					<button
