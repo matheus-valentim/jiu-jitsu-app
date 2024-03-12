@@ -4,6 +4,10 @@
 
 > Esse projeto foi feito para um cliente e adaptado para que pudesse ser mostrado, ele foi criado para administrar competições de jiujitsu da cidade.
 
+### App em produção
+
+para ver o app em procução <a href="https://jiu-jitsu-app.vercel.app" target="_blank">Clique aqui.</a>
+
 ### Ajustes e melhorias
 
 O projeto está em pause no momento ❌.
