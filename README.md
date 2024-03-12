@@ -6,7 +6,7 @@
 
 ### App em produção
 
-para ver o app em procução <a href="https://jiu-jitsu-app.vercel.app" target="_blank">Clique aqui.</a>
+para ver o app em produção <a href="https://jiu-jitsu-app.vercel.app" target="_blank">Clique aqui.</a>
 
 ### Ajustes e melhorias
 
