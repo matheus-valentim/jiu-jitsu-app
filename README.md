@@ -28,13 +28,12 @@ Para usar JIU JITSU, siga estas etapas:
 - Crie uma conta no firebase.
 - Faça um link com o projeto.
 - Use o firestore database.
--  
+
+ 
 ## 💻 Considerações.
 
 - Esse projeto foi feito pensando em windows.
 - Antes de criar um evento crie uma agremiação.
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📝 Licença
 
