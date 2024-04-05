@@ -32,6 +32,13 @@ Para usar JIU JITSU, siga estas etapas:
 - Crie uma conta no firebase.
 - Faça um link com o projeto.
 - Use o firestore database.
+- Ele tem três coleções, usuários, eventos e agremiações.
+  
+   - Os campos de usuários são: docId, email, nivel e senha.
+   - Os campos de eventos são: data, nome e uma coleção de usuários (competidores) com os campos:
+     
+      - Agremiacao, bronze, categoria, classe, colocacao, faixa, festival, id, nome, ouro, pagamento, peso, pontos, prata, sexo e wo.
+   - Os campos de agremiações: agremiacao e docId.
 
  
 ## 💻 Considerações.
