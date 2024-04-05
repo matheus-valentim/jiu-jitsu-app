@@ -2,7 +2,7 @@
 
 <img src="imagem.png" alt="Exemplo imagem">
 
-> Esse projeto foi feito para um cliente e adaptado para que pudesse ser mostrado, ele foi criado para administrar competições de jiujitsu da cidade.
+> Esse projeto foi feito para um cliente e foi adaptado para que pudesse ser mostrado, ele foi criado para administrar competições de jiujitsu da cidade.
 
 ### App em produção
 
